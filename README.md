@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Kubernetes AWS Docker Vim VScode Markdown Terraform Python Microsoft AzureAzure DevOpsGithub
+
 <!--
 **rango31/rango31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
